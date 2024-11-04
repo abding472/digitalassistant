@@ -1,6 +1,6 @@
 **What is this:**
 
-Leverage OpenAI to interact with Amp it Up and various documents on leadership & cognitive science
+Leverage OpenAI to interact with various documents on leadership, psychology, and cognitive science
 In the data folder there are multiple markdown files.
 Both documents are vectorized via OpenAI embedding and stored into Chroma.
 
